@@ -25,8 +25,6 @@ public class ToyShop {
                 return toy.getId();
             }
         }
-
-        // Если все игрушки имеют нулевую частоту выпадения, вернуть -1
         return -1;
     }
 
